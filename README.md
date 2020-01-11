@@ -1,4 +1,4 @@
-# Let's Stop Wildfires Hackathon
+# Let's Stop Wildfires Hackathon - Team Make a Difference
 
 ![wildfire](images/wildfire.png)
 
